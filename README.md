@@ -1,5 +1,6 @@
 # BlueDot-for-RC-Car
-This is my file 
+This is just my file to use the good app BlueDot with my RC Car.
+Thanks to the creator of this app! 
 
 Code for RC Car
 ```python
